@@ -24,7 +24,7 @@ To analyze patterns in employee attrition and uncover insights from key HR attri
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard]("C:\Users\Admin\Pictures\Screenshots\Screenshot (259).png")
+![HR Analytics Dashboard](https://github.com/chinmay6378/HR_Analytics/blob/main/Screenshot%20(259).png)
 
 > *Screenshot of the Power BI Dashboard built using real-world HR dataset (for learning purposes).*
 
